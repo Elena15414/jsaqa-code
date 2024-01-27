@@ -1,6 +1,8 @@
 /node_modules/
+/test-example/
 user.js
-
+App.spec.js
+example.spec.js
 
 .vscode/*
 !.vscode/settings.json
